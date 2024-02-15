@@ -1,0 +1,11 @@
+body {
+    background-color: greenyellow;
+}
+nav{
+    background-color: green;
+}
+p{
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  text-align: center;
+}
